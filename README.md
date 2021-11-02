@@ -4,7 +4,7 @@
 ### Hi there, I'm RACHIDI Achraf 👋
 
 
-## I'm a Software Engineer Student at EILCO , Developer and i focus on Web Dev technologies
+## I'm a Software Engineer Student at EILCO
 
 - 🌱 I’m currently working on a project with LARAVEL 😏
 
